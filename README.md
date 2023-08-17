@@ -13,5 +13,3 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/proelias7)
   # Website
 [![loja](https://img.shields.io/badge/Quantic Store-7C0CFF?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://quanticstore.com.br)
-
-![snake gif](https://github.com/proelias7/proelias7/blob/output/github-contribution-grid-snake.svg)
