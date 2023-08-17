@@ -1,6 +1,6 @@
 ## 👋 Oi eu sou o proelias7, Desenvolvedor Front-End e Back-End!
 # Skills
-[![loja](https://github-readme-stats.vercel.app/api?username={proelias7}&theme=blue-green)](http://quanticstore.com.br)
+[![loja](https://github-readme-stats.vercel.app/api?username=proelias7&theme=blue-green)](http://quanticstore.com.br)
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" src="https://devicons.dev.br/icons?icon=DiscordBots,CSS,HTML,JavaScript,TypeScript,JQuery,React,Wordpress,PHP,MySQL,MongoDB,Lua,Bootstrap,Git,Linux,Photoshop&size=30&theme=dark">
   
