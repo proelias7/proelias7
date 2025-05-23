@@ -50,8 +50,14 @@ Atualmente focado em construir ferramentas úteis, interfaces otimizadas e backe
 ### [🔗 Quantic Store](http://quanticstore.com.br)
 Plataforma de criação de lojas para servidores **FiveM**, com painel completo, integração com gateways de pagamento e sistema de execução automática de comandos no servidor.
 
-### [📦 LiveHub](https://github.com/proelias7/livehub)
+### [📦 LiveHub](https://livehub.fun)
 Agregador de links com foco em streamers. Integrações com redes sociais, sistema de subdomínios e customização visual via dashboard.
+
+### [🌐 Caerd Portal](https://caerd.ro.gov.br)
+Portal da Companhia de Água e Esgoto do Estado de Rondônia.
+
+### [🌐 Luyi Security](https://luyisecurity.com)
+Plataforma de gerênciamento de segurança de mercados autônomos.
 
 ---
 
