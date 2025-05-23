@@ -33,6 +33,7 @@ Atualmente focado em construir ferramentas úteis, interfaces otimizadas e backe
 
 ### 🗄️ Bancos de Dados & Ferramentas
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img title="Redis" height="30" src="https://devicon-website.vercel.app/api/redis/plain-wordmark.svg"/>
   <img title="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img title="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img title="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
